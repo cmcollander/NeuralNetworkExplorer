@@ -11,7 +11,7 @@ The model and training parameters can be adjusted on lines 50-59. Mess around wi
 Here are some interesting questions to ask!
 * Can you recreate the XOR problem with a single perceptron?
 * What is the smallest model you can create that can correctly predict a cluster of red data points surrounded by a ring of blue?
-  * *This is actually really cool when you realize how it does this! Reach out to me if you want an explanation!
+  * *This is actually really cool when you realize how it does this! Reach out to me if you want an explanation!*
 * How do various optimizers and hidden layer activations affect the results?
 * Can you create a model so complex that it will overfit a purely random arrangement of points to 100% accuracy?
 
